@@ -1,0 +1,502 @@
+[
+  {
+    "Mot": "bonjour",
+    "SoundexCode1": "B576",
+    "SoundexCode2": "BNJR"
+  },
+  {
+    "Mot": "le jour",
+    "SoundexCode1": "L760",
+    "SoundexCode2": "LJR "
+  },
+  {
+    "Mot": "la nuit",
+    "SoundexCode1": "L530",
+    "SoundexCode2": "LN  "
+  },
+  {
+    "Mot": "obscurit\u00e9",
+    "SoundexCode1": "O182",
+    "SoundexCode2": "OBSK"
+  },
+  {
+    "Mot": "la terre",
+    "SoundexCode1": "L360",
+    "SoundexCode2": "LTR "
+  },
+  {
+    "Mot": "l'\u00e9toile",
+    "SoundexCode1": "L340",
+    "SoundexCode2": "L'TL"
+  },
+  {
+    "Mot": "SOLEIL",
+    "SoundexCode1": "S400",
+    "SoundexCode2": "SL  "
+  },
+  {
+    "Mot": "LUNE",
+    "SoundexCode1": "L500",
+    "SoundexCode2": "LN  "
+  },
+  {
+    "Mot": "MARS",
+    "SoundexCode1": "M680",
+    "SoundexCode2": "MR  "
+  },
+  {
+    "Mot": "NEPTUNE",
+    "SoundexCode1": "N135",
+    "SoundexCode2": "NPTN"
+  },
+  {
+    "Mot": "Pluton",
+    "SoundexCode1": "P435",
+    "SoundexCode2": "PLTN"
+  },
+  {
+    "Mot": "JUPITER",
+    "SoundexCode1": "J136",
+    "SoundexCode2": "JPTR"
+  },
+  {
+    "Mot": "MERCURE",
+    "SoundexCode1": "M626",
+    "SoundexCode2": "MRKR"
+  },
+  {
+    "Mot": "SATURNE",
+    "SoundexCode1": "S365",
+    "SoundexCode2": "STRN"
+  },
+  {
+    "Mot": "Venus",
+    "SoundexCode1": "V580",
+    "SoundexCode2": "VN  "
+  },
+  {
+    "Mot": "Uranus",
+    "SoundexCode1": "U658",
+    "SoundexCode2": "URN "
+  },
+  {
+    "Mot": "le Firmament",
+    "SoundexCode1": "L965",
+    "SoundexCode2": "LFRM"
+  },
+  {
+    "Mot": "Orion",
+    "SoundexCode1": "O650",
+    "SoundexCode2": "ORN "
+  },
+  {
+    "Mot": "Sirius",
+    "SoundexCode1": "S680",
+    "SoundexCode2": "SR  "
+  },
+  {
+    "Mot": "\u00e0 traduire",
+    "SoundexCode1": "A363",
+    "SoundexCode2": "ATRD"
+  },
+  {
+    "Mot": "Paradis",
+    "SoundexCode1": "P638",
+    "SoundexCode2": "PRD "
+  },
+  {
+    "Mot": "Le monde",
+    "SoundexCode1": "L530",
+    "SoundexCode2": "LMND"
+  },
+  {
+    "Mot": "Enfer",
+    "SoundexCode1": "E596",
+    "SoundexCode2": "ENFR"
+  },
+  {
+    "Mot": "Bienvenue",
+    "SoundexCode1": "B595",
+    "SoundexCode2": "BNVN"
+  },
+  {
+    "Mot": "Bonsoir",
+    "SoundexCode1": "B586",
+    "SoundexCode2": "BNSR"
+  },
+  {
+    "Mot": "Bon apr\u00e8s-midi",
+    "SoundexCode1": "B516",
+    "SoundexCode2": "BNPR"
+  },
+  {
+    "Mot": "Bonne nuit",
+    "SoundexCode1": "B530",
+    "SoundexCode2": "BN  "
+  },
+  {
+    "Mot": "Bonne ann\u00e9e",
+    "SoundexCode1": "B500",
+    "SoundexCode2": "BN  "
+  },
+  {
+    "Mot": "Joyeux No\u00ebl",
+    "SoundexCode1": "J854",
+    "SoundexCode2": "JXNL"
+  },
+  {
+    "Mot": "Merci",
+    "SoundexCode1": "M620",
+    "SoundexCode2": "MRC "
+  },
+  {
+    "Mot": "Merci beaucoup",
+    "SoundexCode1": "M621",
+    "SoundexCode2": "MRCB"
+  },
+  {
+    "Mot": "Je te remercie",
+    "SoundexCode1": "J365",
+    "SoundexCode2": "JTRM"
+  },
+  {
+    "Mot": "Je te remercie beaucoup",
+    "SoundexCode1": "J365",
+    "SoundexCode2": "JTRM"
+  },
+  {
+    "Mot": "Je vous remercie",
+    "SoundexCode1": "J986",
+    "SoundexCode2": "JVSR"
+  },
+  {
+    "Mot": "Je vous remercie beaucoup",
+    "SoundexCode1": "J986",
+    "SoundexCode2": "JVSR"
+  },
+  {
+    "Mot": "Au revoir",
+    "SoundexCode1": "A696",
+    "SoundexCode2": "ARVR"
+  },
+  {
+    "Mot": "je m'en vais",
+    "SoundexCode1": "J598",
+    "SoundexCode2": "JM'N"
+  },
+  {
+    "Mot": "reste bien",
+    "SoundexCode1": "R831",
+    "SoundexCode2": "RSTB"
+  },
+  {
+    "Mot": "\u00e0 bient\u00f4t",
+    "SoundexCode1": "A153",
+    "SoundexCode2": "ABNT"
+  },
+  {
+    "Mot": "\u00e0 demain",
+    "SoundexCode1": "A350",
+    "SoundexCode2": "ADMN"
+  },
+  {
+    "Mot": "\u00e0 tout \u00e0 l'heure",
+    "SoundexCode1": "A346",
+    "SoundexCode2": "ATL'"
+  },
+  {
+    "Mot": "\u00e0 tout de suite",
+    "SoundexCode1": "A383",
+    "SoundexCode2": "ATDZ"
+  },
+  {
+    "Mot": "j'arrive",
+    "SoundexCode1": "J690",
+    "SoundexCode2": "J'RV"
+  },
+  {
+    "Mot": "Vocabulaire",
+    "SoundexCode1": "V214",
+    "SoundexCode2": "VKBL"
+  },
+  {
+    "Mot": "Dieu",
+    "SoundexCode1": "D000",
+    "SoundexCode2": "D   "
+  },
+  {
+    "Mot": "firmament; ciel",
+    "SoundexCode1": "F653",
+    "SoundexCode2": "FRMN"
+  },
+  {
+    "Mot": " le bien n\u2019\u00eatre",
+    "SoundexCode1": "L153",
+    "SoundexCode2": "LBN\u2019"
+  },
+  {
+    "Mot": "comment",
+    "SoundexCode1": "C530",
+    "SoundexCode2": "KMN "
+  },
+  {
+    "Mot": "aujourd'hui",
+    "SoundexCode1": "A763",
+    "SoundexCode2": "AJRD"
+  },
+  {
+    "Mot": "un peu; un peu de",
+    "SoundexCode1": "U515",
+    "SoundexCode2": "UNP;"
+  },
+  {
+    "Mot": "tr\u00e8s; beaucoup",
+    "SoundexCode1": "T681",
+    "SoundexCode2": "TRS;"
+  },
+  {
+    "Mot": "o\u00f9; d'o\u00f9; \u00e0",
+    "SoundexCode1": "O300",
+    "SoundexCode2": "O;D'"
+  },
+  {
+    "Mot": "s'asseoir",
+    "SoundexCode1": "S860",
+    "SoundexCode2": "S'SR"
+  },
+  {
+    "Mot": "en bas",
+    "SoundexCode1": "E518",
+    "SoundexCode2": "ENB "
+  },
+  {
+    "Mot": "venir",
+    "SoundexCode1": "V560",
+    "SoundexCode2": "VNR "
+  },
+  {
+    "Mot": "ici",
+    "SoundexCode1": "I200",
+    "SoundexCode2": "IC  "
+  },
+  {
+    "Mot": "venir; arriver; rentrer",
+    "SoundexCode1": "V569",
+    "SoundexCode2": "VNR;"
+  },
+  {
+    "Mot": "visiter",
+    "SoundexCode1": "V836",
+    "SoundexCode2": "VZTR"
+  },
+  {
+    "Mot": "Dialogue",
+    "SoundexCode1": "D470",
+    "SoundexCode2": "DLK "
+  },
+  {
+    "Mot": "oui",
+    "SoundexCode1": "O000",
+    "SoundexCode2": "O   "
+  },
+  {
+    "Mot": "non",
+    "SoundexCode1": "N500",
+    "SoundexCode2": "N   "
+  },
+  {
+    "Mot": "qu'est-ce que",
+    "SoundexCode1": "Q832",
+    "SoundexCode2": "K'ST"
+  },
+  {
+    "Mot": "litt\u00e9ralement",
+    "SoundexCode1": "L364",
+    "SoundexCode2": "LTRL"
+  },
+  {
+    "Mot": "qui",
+    "SoundexCode1": "Q000",
+    "SoundexCode2": "K   "
+  },
+  {
+    "Mot": "donc",
+    "SoundexCode1": "D520",
+    "SoundexCode2": "DNC "
+  },
+  {
+    "Mot": "moi",
+    "SoundexCode1": "M000",
+    "SoundexCode2": "M   "
+  },
+  {
+    "Mot": "toi",
+    "SoundexCode1": "T000",
+    "SoundexCode2": "T   "
+  },
+  {
+    "Mot": "lui",
+    "SoundexCode1": "L000",
+    "SoundexCode2": "L   "
+  },
+  {
+    "Mot": "nous",
+    "SoundexCode1": "N800",
+    "SoundexCode2": "N   "
+  },
+  {
+    "Mot": "vous",
+    "SoundexCode1": "V800",
+    "SoundexCode2": "V   "
+  },
+  {
+    "Mot": "eux",
+    "SoundexCode1": "E800",
+    "SoundexCode2": "EX  "
+  },
+  {
+    "Mot": "Maman",
+    "SoundexCode1": "M500",
+    "SoundexCode2": "MN  "
+  },
+  {
+    "Mot": "ta m\u00e8re",
+    "SoundexCode1": "T560",
+    "SoundexCode2": "TMR "
+  },
+  {
+    "Mot": "o\u00f9",
+    "SoundexCode1": "O000",
+    "SoundexCode2": "O   "
+  },
+  {
+    "Mot": "et; aussi",
+    "SoundexCode1": "E380",
+    "SoundexCode2": "ET;S"
+  },
+  {
+    "Mot": "me voici",
+    "SoundexCode1": "M920",
+    "SoundexCode2": "MVC "
+  },
+  {
+    "Mot": "le voil\u00e0; la voil\u00e0",
+    "SoundexCode1": "L949",
+    "SoundexCode2": "LVL;"
+  },
+  {
+    "Mot": "la maison",
+    "SoundexCode1": "L585",
+    "SoundexCode2": "LMZN"
+  },
+  {
+    "Mot": "la cuisine",
+    "SoundexCode1": "L285",
+    "SoundexCode2": "LKZN"
+  },
+  {
+    "Mot": "vous tous",
+    "SoundexCode1": "V838",
+    "SoundexCode2": "VST "
+  },
+  {
+    "Mot": "le travail",
+    "SoundexCode1": "L369",
+    "SoundexCode2": "LTRV"
+  },
+  {
+    "Mot": "la force; fort",
+    "SoundexCode1": "L962",
+    "SoundexCode2": "LFRC"
+  },
+  {
+    "Mot": "tellement; si",
+    "SoundexCode1": "T453",
+    "SoundexCode2": "TLMN"
+  },
+  {
+    "Mot": "mon; le mien",
+    "SoundexCode1": "M545",
+    "SoundexCode2": "MN;L"
+  },
+  {
+    "Mot": "la promenade; la balade",
+    "SoundexCode1": "L165",
+    "SoundexCode2": "LPRM"
+  },
+  {
+    "Mot": "n\u2019\u00eatre pas",
+    "SoundexCode1": "N361",
+    "SoundexCode2": "N\u2019TR"
+  },
+  {
+    "Mot": "je ne suis pas",
+    "SoundexCode1": "J581",
+    "SoundexCode2": "JNZS"
+  },
+  {
+    "Mot": "Bonne journ\u00e9e; Bonjour",
+    "SoundexCode1": "B576",
+    "SoundexCode2": "BNJR"
+  },
+  {
+    "Mot": "Bonjour monsieur",
+    "SoundexCode1": "B576",
+    "SoundexCode2": "BNJR"
+  },
+  {
+    "Mot": "Bonjour madame",
+    "SoundexCode1": "B576",
+    "SoundexCode2": "BNJR"
+  },
+  {
+    "Mot": "Remarques",
+    "SoundexCode1": "R562",
+    "SoundexCode2": "RMRK"
+  },
+  {
+    "Mot": "Remarque",
+    "SoundexCode1": "R562",
+    "SoundexCode2": "RMRK"
+  },
+  {
+    "Mot": "106",
+    "SoundexCode1": "1000",
+    "SoundexCode2": "106 "
+  },
+  {
+    "Mot": "107",
+    "SoundexCode1": "1000",
+    "SoundexCode2": "107 "
+  },
+  {
+    "Mot": "la tete",
+    "SoundexCode1": "L300",
+    "SoundexCode2": "LT  "
+  },
+  {
+    "Mot": "Cheveux",
+    "SoundexCode1": "C980",
+    "SoundexCode2": "CVX "
+  },
+  {
+    "Mot": "cr\u00e2ne",
+    "SoundexCode1": "C650",
+    "SoundexCode2": "CRN "
+  },
+  {
+    "Mot": "le front",
+    "SoundexCode1": "L965",
+    "SoundexCode2": "LFRN"
+  },
+  {
+    "Mot": "l\u2019\u0153il",
+    "SoundexCode1": "L400",
+    "SoundexCode2": "L\u2019\u0152L"
+  },
+  {
+    "Mot": "sourcils",
+    "SoundexCode1": "S624",
+    "SoundexCode2": "SRCL"
+  }
+]
